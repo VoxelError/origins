@@ -1,0 +1,7 @@
+name: Origins
+version: '${project.version}'
+main: me.asterverse.origins.Main
+api-version: 1.17
+commands:
+  origins:
+    usage: /<command>
